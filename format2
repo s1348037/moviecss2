@@ -1,0 +1,12 @@
+body {
+	font-family: Times New Roman, serif;
+    	color: #009933;
+   	background-color: #ffff00;
+}
+h1 {
+    	font-family: Arial;
+	color: #009933;
+	background-color: #ffffff }
+a:link {
+   	background-color: #CCCCCC }
+}
